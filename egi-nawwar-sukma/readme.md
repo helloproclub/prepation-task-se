@@ -10,14 +10,22 @@
 ![](./Screenshoot/article.png)
 ![](./Screenshoot/article-body.png)
 
-Tech Stack
-Javascript
-HTML
-CSS
-...
-Repository
-here
-Contributors
-Alfi Syahri
-Live Demo (Optional)
-helloproclub.github.io
+## Tech Stack
+
+1. Django
+2. HTML
+3. CSS
+4. Djangorestframework
+5. SQLite3 
+
+## Repository
+
+[here](https://github.com/EgiNS/personal-blog)
+
+## Contributors
+
+[Egi Nawwar Sukma](https://github.com/EgiNS)
+
+## Live Demo
+
+http://egipersonalblog.herokuapp.com/
