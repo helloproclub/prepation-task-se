@@ -1,20 +1,23 @@
 # Your Name
+Moza Sajidah Putri Al Muzaffar
 
 ## Screenshot
 ![](./tenor.gif)
 
 ## Tech Stack
-1. Javascript
-2. HTML
-3. CSS
+1. HTML
+2. CSS
+3. ...
 4. ...
 
 ## Repository
-1. [here](https://github.com/helloproclub/Aurora)
+1. [BackEnd]
+2. [FrontEnd](https://github.com/svnflxvver/blogAblog-Frontend)
 
 ## Contributors
 
-1. [Alfi Syahri](https://github.com/alfi2811)
+1. [Hidayat Taufiqur Rahmah Achmad](https://github.com/hidayattaufiqur)
+2. [Moza Sajidah Putri Al Muzaffar](https://github.com/svnflxvver)
 
 ## Live Demo  (Optional)
 
