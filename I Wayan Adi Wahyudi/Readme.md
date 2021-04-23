@@ -1,7 +1,6 @@
 # I Wayan Adi Wahyudi
 
 ## Screenshot
-![](./tenor.gif)
 
 ## Tech Stack
 1. Javascript       - Bahasa
