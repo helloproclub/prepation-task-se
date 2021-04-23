@@ -1,16 +1,12 @@
 # I Wayan Adi Wahyudi
 
-## Repository
-[here](https://github.com/adiwahyudi/simple-crud-rest-api)
+## Screenshot
+![](./ss-api-doc.png)
 
 ## Tech Stack
 1. Javascript       - Bahasa
 2. NodeJS,ExpressJS - REST Server
 3. MongoDB          - Database
-
-## Screenshot
-![](./ss-api-doc.png)
-
 
 ## Contributors
 
