@@ -20,7 +20,7 @@
 
 ## Repository
 
-[here](https://github.com/EgiNS/personal-blog)
+[Here](https://github.com/EgiNS/personal-blog)
 
 ## Contributors
 
