@@ -6,7 +6,6 @@ categories: Software Engineering
 author: I Wayan Adi Wahyudi
 author_pic: insta adiwahyudii
 project_link: https://github.com/adiwahyudi/simple-crud-rest-api
-documentation: https://documenter.getpostman.com/view/11737444/TzJshe8o
 ---
 
 - Teknologi yang digunakan
