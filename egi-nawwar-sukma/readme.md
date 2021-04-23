@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![](/Screenshoot/home-hero.png)
+![](./Screenshoot/home-hero.png)
 
 
 
