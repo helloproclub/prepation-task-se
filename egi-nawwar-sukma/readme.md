@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![](/EgiNS/prepation-task-se/blob/main/egi-nawwar-sukma/Screenshoot/home-hero.png)
+![](/Screenshoot/home-hero.png)
 
 
 
