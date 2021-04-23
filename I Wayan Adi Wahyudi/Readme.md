@@ -1,6 +1,7 @@
 # I Wayan Adi Wahyudi
 
-## Screenshot
+## Repository
+[here](https://github.com/adiwahyudi/simple-crud-rest-api)
 
 ## Tech Stack
 1. Javascript       - Bahasa
@@ -10,8 +11,6 @@
 ## Screenshot
 ![](./ss-api-doc.png)
 
-## Repository
-[here](https://github.com/adiwahyudi/simple-crud-rest-api)
 
 ## Contributors
 
