@@ -7,6 +7,8 @@
 2. NodeJS,ExpressJS - REST Server
 3. MongoDB          - Database
 
+## Screenshot
+![](./ss-api-doc.png)
 
 ## Repository
 [here](https://github.com/adiwahyudi/simple-crud-rest-api)
