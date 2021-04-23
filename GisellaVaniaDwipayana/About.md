@@ -10,5 +10,5 @@ Dapat dilakukan penambahan, edit, penghapusan artikel, kategori artikel, komenta
 
 
 Teknologi yang digunakan:
-Bahasa pemrograman: PHP, JavaScript & CSS (bootstrap)
-Database : SQL
+- Bahasa pemrograman: PHP, JavaScript & CSS (bootstrap)
+- Database : SQL
