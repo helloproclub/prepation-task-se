@@ -15,7 +15,7 @@
 1. Django
 2. HTML
 3. CSS
-4. Djangorestframework
+4. Django Rest Framework
 5. SQLite3 
 
 ## Repository
