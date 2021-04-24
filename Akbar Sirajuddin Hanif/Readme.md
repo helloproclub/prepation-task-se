@@ -1,9 +1,7 @@
 # Your Name
 
 ## Screenshot
-![](./splash.png)
-![](./add.png)
-![](./news.png)
+![](./image.png)
 
 ## Tech Stack
 1. Javascript
