@@ -1,10 +1,10 @@
 # Shidqi Fadhlurrahman Yusri
 
 # Screenshoots
-![](.screenshoots/Home.png)
-![](.screenshoots/Card-deck.png)
-![](.screenshoots/blog-posts.png)
-![](.screenshoots/detail-blog.png)
+![](.screenshots/Home.png)
+![](.screenshots/Card-deck.png)
+![](.screenshots/blog-posts.png)
+![](.screenshots/detail-blog.png)
 
 ## Website
 - [website](https://shidqify-blog.herokuapp.com/)
