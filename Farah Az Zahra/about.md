@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "How many of me"
-date:   2021-04-24 13:20:24 +0900
-categories: software engineering 
-author: Farah Az Zahra
-author_pic: IG : @farah_azzhr
-project_link: 
+title: "API NEWS"
+date:   2021-04-24 14:40:24 +0900
+categories: softwrae engineering 
+author: Farah Azzahra
+author_pic: @farah_azzhr
+project_link: https://github.com/FarahAzZahra/News-API.git
 ---
 
 ## Abstrak
