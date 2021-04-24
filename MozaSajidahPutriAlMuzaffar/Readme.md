@@ -1,5 +1,5 @@
 # Your Name
-Moza Sajidah Putri Al Muzaffar
+## Moza Sajidah Putri Al Muzaffar
 
 ## Screenshot
 ![](./tenor.gif)
@@ -7,11 +7,9 @@ Moza Sajidah Putri Al Muzaffar
 ## Tech Stack
 1. HTML
 2. CSS
-3. ...
-4. ...
 
 ## Repository
-1. [BackEnd]
+1. [BackEnd](https://github.com/hidayattaufiqur/blogAblog-Backend)
 2. [FrontEnd](https://github.com/svnflxvver/blogAblog-Frontend)
 
 ## Contributors
@@ -21,4 +19,3 @@ Moza Sajidah Putri Al Muzaffar
 
 ## Live Demo  (Optional)
 
-helloproclub.github.io
