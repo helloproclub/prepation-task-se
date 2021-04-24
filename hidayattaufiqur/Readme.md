@@ -1,8 +1,13 @@
-## Your Name
-- Hidayat Taufiqur Rahmah Achmad
+# Your Name
+## Hidayat Taufiqur Rahmah Achmad
 
 ## Screenshot
-![alt text](https://github.com/hidayattaufiqur/prepation-task-se/tree/main/hidayattaufiqur/GET1.png)
+![GET1](https://github.com/hidayattaufiqur/prepation-task-se/blob/main/hidayattaufiqur/GET1.png)
+![POST](https://github.com/hidayattaufiqur/prepation-task-se/blob/main/hidayattaufiqur/2.POST.png)
+![GET2](https://github.com/hidayattaufiqur/prepation-task-se/blob/main/hidayattaufiqur/3.GET2.png)
+![PUT](https://github.com/hidayattaufiqur/prepation-task-se/blob/main/hidayattaufiqur/4.PUT.png)
+![DELETE](https://github.com/hidayattaufiqur/prepation-task-se/blob/main/hidayattaufiqur/5.DELETE.png)
+![GET3](https://github.com/hidayattaufiqur/prepation-task-se/blob/main/hidayattaufiqur/6.GET3.png)
 
 ## Tech Stack
 1. NodeJS
@@ -19,5 +24,3 @@
 2. [Moza Sajidah Putri Al Muzaffar](https://github.com/svnflxvver)
 
 ## Live Demo  (Optional)
-
-helloproclub.github.io
