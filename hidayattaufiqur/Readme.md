@@ -2,7 +2,7 @@
 - Hidayat Taufiqur Rahmah Achmad
 
 ## Screenshot
-![](./1. GET1.png)
+![alt text](https://github.com/hidayattaufiqur/prepation-task-se/tree/main/hidayattaufiqur/1.GET1.PNG)
 
 ## Tech Stack
 1. NodeJS
