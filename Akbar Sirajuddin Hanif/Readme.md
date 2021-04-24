@@ -1,7 +1,7 @@
 # Your Name
 
 ## Screenshot
-![](./image.png)
+![](./app.png)
 
 ## Tech Stack
 1. Javascript
