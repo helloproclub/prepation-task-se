@@ -2,7 +2,7 @@
 - Hidayat Taufiqur Rahmah Achmad
 
 ## Screenshot
-![](./
+![](./1. GET1.png)
 
 ## Tech Stack
 1. NodeJS
