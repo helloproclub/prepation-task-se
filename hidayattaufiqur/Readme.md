@@ -1,16 +1,13 @@
-Hidayat Taufiqur Rahmah Achmad
-Moza Sajidah Putri Al Muzaffar
+## Your Name
+- Hidayat Taufiqur Rahmah Achmad
 
 ## Screenshot
-![](./tenor.gif)
+![alt text](https://github.com/hidayattaufiqur/prepation-task-se/tree/main/hidayattaufiqur/1.GET1.PNG)
 
 ## Tech Stack
-1. HTML
-2. CSS
-3. NodeJS
-4. ExpressJS
-5. Ejs
-6. MongoDB
+1. NodeJS
+2. ExpressJS
+3. MongoDB
 
 ## Repository
 1. [BackEnd](https://github.com/hidayattaufiqur/blogAblog-Backend)
