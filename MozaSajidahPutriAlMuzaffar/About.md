@@ -5,7 +5,7 @@ date:   2021-04-24 20:54:10
 categories: Web Development
 author: Hidayat Taufiqur Rahmah Achmad, Moza Sajidah Putri Al Muzaffar
 author_pic: https://github.com/svnflxvver/blogAblog-Frontend/blob/master/img/Dayat.png || https://github.com/svnflxvver/blogAblog-Frontend/blob/master/img/Moza.png
-project_link: 
+project_link: https://github.com/hidayattaufiqur/blogAblog || https://github.com/svnflxvver/blogAblog 
 ---
 
 
