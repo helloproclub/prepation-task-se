@@ -29,14 +29,14 @@ blogAblog is a place for anyone to share any story. Story about life, love, scho
 
 | Platform | Framework | Bahasa Pemrograman |
 | ------ | ------ | ------ |
-| Backend | NodeJS ExpressJS | JavaScript |
-| Frontend | Bootstrap | EJS & CSS |
-| API | NodeJS ExpressJS | JavaScript |
+| Backend | NodeJS, ExpressJS | JavaScript |
+| Frontend | Bootstrap | HTML, EJS & CSS |
+| API | NodeJS, ExpressJS | JavaScript |
 | Database | Mongoose | MongoDB |
 
 ## API Documentation
 - Method : GET
-- URL : ```http://localhost:5000/articles/blog/title-of-a-longer-featured-blog-post```
+- URL : ```http://localhost:5000/articles/blog/:slug```
 
 ```json
 {
