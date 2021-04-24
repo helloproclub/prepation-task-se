@@ -6,7 +6,7 @@
 
 ## Keterangan
 
-Website ini merupakan blog pribadi dari saya.
+Website ini merupakan blog pribadi dari saya yang dibangun dengan framework Django.
 
 ## Tech Stack
 
@@ -18,9 +18,8 @@ Website ini merupakan blog pribadi dari saya.
 
 ## API Documentation
 
-### Get List of Place
+### Get All of List
 - Method : GET
-- Host : https://housend-develop-proclub.000webhostapp.com/
 - URL : ```https://egipersonalblog.herokuapp.com/api/halaman-api/```
 
 ```json
