@@ -1,7 +1,7 @@
 # Adinugraha Dharmaputra
 
 ## Screenshoot
-    ![](./rest-api.jpg)
+![](./rest-api.jpg)
 ## Documentation
 [documentation](https://documenter.getpostman.com/view/15484442/TzJvdc7U)
 
