@@ -2,7 +2,6 @@
 title: "Movie_Mania"
 categories: software engineering 
 author: Rifky Aulia Putra Purwanto
-author_pic: /assets/DIO.jpg 
 project_link: https://github.com/EkyMamba/Movie_Mania
 ---
 
