@@ -1,7 +1,7 @@
 # Farah Az-Zahra
 
 ## Screenshot
-![](./tenor.gif)
+![](./ss.png)
 
 ## Tech Stack
 1. Javascript - Bahasa
