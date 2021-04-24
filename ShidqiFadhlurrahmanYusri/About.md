@@ -2,7 +2,7 @@
 
 | Judul | Tanggal | Kategori | Platform | Pembuat | Tautan Projek |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Shidqi's Personal Blog | 24 April 2021 | Software Engineering | Website | Shidqi Fadhlurrahman Yusri | https://github.com/EgiNS/personal-blog <br/> http://egipersonalblog.herokuapp.com/ |
+| Shidqi's Personal Blog | 24 April 2021 | Software Engineering | Website | Shidqi Fadhlurrahman Yusri | https://github.com/shidqify/Web-using-Django <br/> https://shidqify-blog.herokuapp.com/ |
 
 ## Keterangan
 
