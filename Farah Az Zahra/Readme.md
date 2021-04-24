@@ -1,7 +1,7 @@
 # Farah Az-Zahra
 
 ## Screenshot
-![](./ss.png)
+![](./ss.PNG)
 
 ## Tech Stack
 1. Javascript - Bahasa
