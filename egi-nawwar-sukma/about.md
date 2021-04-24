@@ -12,7 +12,8 @@ Website ini merupakan blog pribadi dari saya yang dibangun dengan framework Djan
 
 | Platform | Framework | Bahasa Pemrograman |
 | ------ | ------ | ------ |
-| Website | Django Framework | Python |
+| Backend | Django Framework | Python |
+| Frontend | - | HTML & CSS |
 | API | Django Rest Framework  | Python |
 | Database | SQLite3 | SQLite3 |
 
