@@ -4,12 +4,11 @@
 - [website](https://shidqify-blog.herokuapp.com/)
 
 ## Tech Stack
-1. Python
-2. Django
-3. Django Rest Framework
-4. SQLite3
-5. HTML
-6. CSS
+1. Django
+2. DjangoRestFramework
+3. SQLite3
+4. HTML
+5. CSS
 
 ## Repository
 1. [here](https://github.com/shidqify/Web-using-Django)
