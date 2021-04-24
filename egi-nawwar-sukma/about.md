@@ -1,8 +1,8 @@
-# Housend App
+# Personal Blog
 
 | Judul | Tanggal | Kategori | Platform | Pembuat | Tautan Projek |
 | ------ | ------ | ------ | ------ | ------ | ------ |
-| Egi's Personal Blog | 24 April 2021 | Software Engineering | Website | Egi Nawwar Sukma | https://github.com/EgiNS/personal-blog <br/> http://egipersonalblog.herokuapp.com/ |
+| Egi's Personal Blog | 24 April 2021 | Software Engineering | Website | Egi Nawwar Sukma | - https://github.com/EgiNS/personal-blog <br/> - http://egipersonalblog.herokuapp.com/ |
 
 ## Keterangan
 
