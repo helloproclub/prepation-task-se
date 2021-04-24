@@ -9,7 +9,7 @@
 3. MongoDB - Database
 
 ## Repository
-1. [here](https://github.com/)
+1. [here](https://github.com/FarahAzZahra/News-API.git)
 
 ## Contributors
 
