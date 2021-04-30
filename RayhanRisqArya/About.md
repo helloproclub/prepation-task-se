@@ -9,7 +9,7 @@
 3. JavaScript
 
 ## Repository
-1. [here](https://github.com/risq45/OwnerWeb)
+1. [here](https://github.com/risq45/PracticeAPI1)
 
 ## Contributors
 
