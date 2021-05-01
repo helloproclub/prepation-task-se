@@ -4,8 +4,7 @@
 ![](./screenshots/documentation.png)
 
 ## Documentation
-- [website](https://shidqify-blog.herokuapp.com/)
-
+- [documentation](https://documenter.getpostman.com/view/15439822/TzRLkqUt)
 ## Tech Stack
 1. Django
 2. DjangoRestFramework
