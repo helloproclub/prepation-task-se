@@ -1,12 +1,13 @@
 # Gisella Vania Dwipayana
 ## Screenshot
-![Screenshot (1512)](https://user-images.githubusercontent.com/74665155/115901492-d83dab00-a493-11eb-86bd-b65ed268aae7.png)
-![Screenshot (1513)](https://user-images.githubusercontent.com/74665155/115901505-dd025f00-a493-11eb-9af5-cf76a8e874a8.png)
+![Screenshot (1586)](https://user-images.githubusercontent.com/74665155/116784620-caa5a800-aac7-11eb-9a04-606dfe6af6e5.png)
+![Screenshot (1587)](https://user-images.githubusercontent.com/74665155/116784633-d7c29700-aac7-11eb-82f0-020347c9280e.png)
 ## Tech Stack
-1. PHP
-2. CSS, JavaScript (bootstrap)
-3. Database: SQL
+1. HTML
+2. CSS
+3. JavaScript
+4. Public API: GNews API
 ## Repository
-[here](https://github.com/gisellavd/web_berita_dinamis.git)
+[here](https://github.com/gisellavd/web-berita.git)
 ## Contributors
 [gisella vania](https://github.com/gisellavd)
