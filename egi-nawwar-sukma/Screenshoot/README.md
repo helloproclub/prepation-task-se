@@ -1,1 +1,1 @@
-Screenshoot my news website
+Screenshoot of my news website
