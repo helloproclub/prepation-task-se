@@ -1,13 +1,8 @@
 # Personal Blog
 
----
-layout: post
-title: Blog Endpoint CRUD
-date: 1 May 2021
-categories: softwrae engineering 
-author: Shidqi Fadhlurrahman Yusri
-project_link: https://github.com/shidqify/web_blog_api
----
+- | Title | Date | Category | Platform | Authot | Project link |
+- | ------ | ------ | ------ | ------ | ------ | ------ |
+- | Shidqi's Personal Blog API | 1 May 2021 | Software Engineering | Blog API | Shidqi Fadhlurrahman Yusri | https://github.com/shidqify/web_blog_api |
 
 ## Deskripsi
 
