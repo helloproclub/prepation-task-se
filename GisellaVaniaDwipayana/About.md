@@ -1,6 +1,6 @@
 | title               | date          | categories           | author        | author_pic       | project_link                                        |
 | ------------------- | ------------- | -------------------- | ------------- | ---------------- |---------------------------------------------------- |
-| web berita dinamis  | 23-04-2021    | software engineering | gisella vania | insta: gisellavd | https://github.com/gisellavd/web-berita.git         |
+| web berita          | 01-05-2021    | software engineering | gisella vania | insta: gisellavd | https://github.com/gisellavd/web-berita.git         |
 
 # Deskripsi
 Website ini digunakan untuk membaca ataupun searching artikel 
