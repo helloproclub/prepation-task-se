@@ -2,30 +2,21 @@
 
 ## Screenshot
 
-![](./Screenshoot/home-hero.png)
-![](./Screenshoot/home-aboutme.png)
-![](./Screenshoot/home-previewArticle.png)
-![](./Screenshoot/blog-page.png)
-![](./Screenshoot/blog-page1.png)
-![](./Screenshoot/article.png)
-![](./Screenshoot/article-body.png)
+![](./Screenshoot/header.png)
+![](./Screenshoot/article_view.png)
+![](./Screenshoot/mostviewed.png)
+![](./Screenshoot/search.png)
 
 ## Tech Stack
 
-1. Django
-2. HTML
-3. CSS
-4. Django Rest Framework
-5. SQLite3 
+1. HTML
+2. CSS
+3. Javascript
 
 ## Repository
 
-[Here](https://github.com/EgiNS/personal-blog)
+[Here](https://github.com/EgiNS/news-website)
 
 ## Contributors
 
 [Egi Nawwar Sukma](https://github.com/EgiNS)
-
-## Live Demo
-
-http://egipersonalblog.herokuapp.com/
